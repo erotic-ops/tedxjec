@@ -44,7 +44,7 @@ const Homepage = () => {
           libero unde veniam, esse neque similique alias officia nihil maiores
           culpa ipsum minima.
         </p> */}
-        {/* <Link to="/ticket"> */}
+        <Link to="/ticket">
 
           <button className="md:py-3 py-1 my-4 md:text-xl text-sm ticket rounded-3xl hover:bg-black  border-red-600 hover: border-2 shadow-red-600 shadow-2xl md:px-12 px-6 bg-red-600">
             Tickets Coming Soon!!!
